@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1631290576 source:f:\new folder\cricket_score_board\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
